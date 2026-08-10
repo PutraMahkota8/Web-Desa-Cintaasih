@@ -54,7 +54,7 @@
                          class="yd-about__image"
                          loading="lazy" />
                     <div class="yd-about__image-badge">
-                        <p class="yd-about__image-badge-text">Terdaftar di Diknas &amp; Kemenag</p>
+                        <p class="yd-about__image-badge-text">Sistem Informasi Desa Resmi &amp; Pelayanan</p>
                     </div>
                 </div>
                 <div class="yd-about__image-deco" aria-hidden="true"></div>
