@@ -25,7 +25,7 @@
                     <a href="https://youtube.com" target="_blank" rel="noopener" class="yd-footer__social" aria-label="YouTube">
                         <i class="fab fa-youtube"></i>
                     </a>
-                    <a href="https://wa.me/6285720696453" target="_blank" rel="noopener" class="yd-footer__social" aria-label="WhatsApp">
+                    <a href="https://wa.me/6285802732708" target="_blank" rel="noopener" class="yd-footer__social" aria-label="WhatsApp">
                         <i class="fab fa-whatsapp"></i>
                     </a>
                 </div>

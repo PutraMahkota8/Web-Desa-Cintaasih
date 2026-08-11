@@ -65,11 +65,7 @@
                         allowfullscreen=""
                         loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"
-<<<<<<< HEAD
                         title="Lokasi Kantor Desa Cintaasih">
-=======
-                        title="Lokasi Yayasan Darusalam">
->>>>>>> c1b2ccd1082017e3d2eedd203b6fa0e8d2783f34
                     </iframe>
                 </div>
             </div>
