@@ -40,16 +40,9 @@ Halaman utama — menyusun semua section
                     [
                         'name' => 'Bapak Deni Abdul Kholik, S.Pd.I., M.A.P.',
                         'role' => 'Kepala PKBM NURUL FATA',
-                        'image' => asset('landing_page/images/deni.jpeg'),
+                        'image' => asset('landing_page/images/WhatsApp Image 2026-08-10 at 10.46.12 AM.jpeg'),
                         'desc' => "Assalamu'alaikum Warahmatullahi Wabarakatuh. Kami bersyukur atas kepercayaan yang diberikan kepada PKBM NURUL FATA. Setiap peserta didik adalah amanah yang harus kita kembangkan potensinya secara maksimal. Mari bersama-sama membangun generasi yang unggul dalam prestasi dan berkarakter kuat dalam budaya Islami."
                     ],
-
-                    [
-                        'name' => 'Ibu Dr. Adah Aliyah, M.Pd.',
-                        'role' => 'Kepala Madrasah Aliyah Swasta Al-Mustofawiyah',
-                        'image' => asset('landing_page/images/adah.jpeg'),
-                        'desc' => "Dengan bangga kami persembahkan Madrasah Aliyah yang berkomitmen untuk memberikan pendidikan berkualitas internasional dengan tetap mempertahankan nilai-nilai ketauhidan. Semoga melalui proses pembelajaran yang berkelanjutan, peserta didik dapat mencapai cita-cita mereka sambil menjadi individu yang bermanfaat bagi masyarakat."
-                    ]
                 ];
             @endphp
 

@@ -56,12 +56,13 @@
                 <div class="yd-contact__map">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8504846155006!2d107.08892469999999!3d-6.9084753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e684f6342b604fb%3A0x4165ecef18f5503b!2sKantor%20Pemerintahan%20Desa%20Cintaasih!5e0!3m2!1sid!2sid!4v1786105778017!5m2!1sid!2sid"
+                        width="100%"
                         height="220"
                         style="border:0; border-radius: 15px;"
                         allowfullscreen=""
                         loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"
-                        title="Lokasi Yayasan Darusalam">
+                        title="Lokasi Kantor Desa Cintaasih">
                     </iframe>
                 </div>
             </div>
