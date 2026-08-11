@@ -7,19 +7,17 @@
 
         <div class="yd-section-header yd-section-header--center">
             <p class="yd-section-label">Infrastruktur</p>
-            <h2 class="yd-section-title">Fasilitas Unggulan</h2>
+            <h2 class="yd-section-title">POTENSI DESA</h2>
             <p class="yd-section-subtitle">Fasilitas modern yang mendukung proses belajar mengajar berkualitas tinggi.</p>
         </div>
 
         <div class="yd-Potensi__grid">
             @php
                 $Potensi = [
-                    ['image' => asset('landing_page/images/masjid.jpg'), 'title' => 'Masjid Pesantren', 'desc' => 'Masjid megah berkapasitas 500 jamaah sebagai pusat kegiatan ibadah dan kajian keagamaan.'],
-                    ['image' => asset('landing_page/images/library.jpg'), 'title' => 'Perpustakaan', 'desc' => 'Perpustakaan lengkap untuk kegiatan belajar dan penelitian.'],
-                    ['image' => asset('landing_page/images/ruang.jpg'), 'title' => 'Ruang Kelas', 'desc' => 'Ruang kelas yang nyaman dan bersih untuk kegiatan pembelajaran.'],
-                    ['image' => asset('landing_page/images/labkom.jpeg'), 'title' => 'Laboratorium Komputer', 'desc' => 'Lab komputer lengkap dengan peralatan modern untuk praktikum dan penelitian.'],
-                    ['image' => asset('landing_page/images/lapang.jpg'), 'title' => 'Lapangan Olahraga', 'desc' => 'Kompleks olahraga multi-guna meliputi lapangan futsal, basket, dan area senam.'],
-                    ['image' => asset('landing_page/images/kelas.jpg'), 'title' => 'Asrama Santri', 'desc' => 'Asrama nyaman terpisah putra-putri dengan fasilitas lengkap dan pengawasan penuh.'],
+                    ['image' => asset('landing_page/images/masjid.jpg'), 'title' => 'Sumber Daya Alam', 'desc' => 'Masjid megah berkapasitas 500 jamaah sebagai pusat kegiatan ibadah dan kajian keagamaan.'],
+                    ['image' => asset('landing_page/images/library.jpg'), 'title' => 'Sumber Daya Manusia', 'desc' => 'Perpustakaan lengkap untuk kegiatan belajar dan penelitian.'],
+                    ['image' => asset('landing_page/images/ruang.jpg'), 'title' => 'Sumber Daya Kelembagaan', 'desc' => 'Ruang kelas yang nyaman dan bersih untuk kegiatan pembelajaran.'],
+                    ['image' => asset('landing_page/images/labkom.jpeg'), 'title' => 'Sumber Daya Sarana dan Prasarana', 'desc' => 'Lab komputer lengkap dengan peralatan modern untuk praktikum dan penelitian.'],
                 ];
             @endphp
 

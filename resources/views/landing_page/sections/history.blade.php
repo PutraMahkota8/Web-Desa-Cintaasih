@@ -31,7 +31,7 @@
             <div class="yd-accordion" id="acc-latar">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-latar-body">
                     <span class="yd-accordion__icon"><i class="fas fa-user-circle"></i></span>
-                    <span class="yd-accordion__title">Latar Belakang</span>
+                    <span class="yd-accordion__title">Latar Belakang Desa</span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-latar-body" aria-hidden="true">
