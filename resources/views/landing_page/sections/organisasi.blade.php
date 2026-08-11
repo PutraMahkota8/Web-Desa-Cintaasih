@@ -50,7 +50,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    blalabla
+                    Sekretaris desa (Sekdes) adalah perangkat desa yang memimpin sekretariat desa dan bertugas 
+                    membantu kepala desa dalam bidang administrasi pemerintahan, pengelolaan keuangan, ketatausahaan, 
+                    serta penyusunan perencanaan dan laporan pembangunan desa.
                 </p>
 
             </div>
@@ -81,7 +83,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    blablabla
+                    Kasi Pembangunan dan Pemberdayaan (Kepala Seksi Pembangunan dan Pemberdayaan Masyarakat) 
+                    adalah jabatan struktural di tingkat kecamatan atau kelurahan yang memimpin koordinasi kegiatan 
+                    pembangunan fisik, pemeliharaan sarana prasarana umum, serta program pemberdayaan masyarakat.
                 </p>
 
             </div>
@@ -112,7 +116,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                 blablabla
+                 Kasi Pemerintahan (Kepala Seksi Pemerintahan) adalah unsur pelaksana teknis di bawah Kepala Desa atau Lurah yang bertugas 
+                 membantu menjalankan urusan manajemen tata praja, administrasi kependudukan, 
+                 pertanahan, serta ketentraman dan ketertiban umum di wilayah desa atau kelurahan.
                 </p>
 
             </div>
@@ -144,7 +150,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                   blablabla
+                   Kasi Kesra (Kepala Seksi Kesejahteraan Rakyat) adalah perangkat desa atau kelurahan yang bertugas
+                    membantu Kepala Desa atau Lurah dalam bidang pembangunan dan pemberdayaan masyarakat Jabatan ini bertindak
+                    sebagai unsur pelaksana teknis operasional.
                 </p>
 
             </div>
@@ -175,7 +183,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    blalbalba
+                    Kaur Umum atau Kepala Urusan Tata Usaha dan Umum
+                    adalah perangkat desa di Indonesia yang membantu Sekretaris Desa dalam urusan pelayanan administrasi perkantoran,
+                    pengelolaan surat-menyurat, kearsipan, inventarisasi aset, serta penyediaan sarana prasarana kantor.
                 </p>
 
             </div>
@@ -206,7 +216,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    blbalablab
+                    Kaur Keuangan atau Kepala Urusan Keuangan adalah perangkat desa di Indonesia yang bertindak se
+                    bagai bendahara desa. Ia bertugas membantu Sekretaris Desa dalam mengurus administrasi keuangan,
+                    mencatat transaksi masuk dan keluar, melakukan verifikasi berkas, serta mengelola gaji perangkat desa.
                 </p>
 
             </div>
@@ -237,7 +249,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    BLABLBA
+                    Kepala Urusan Perencanaan (Kaur Perencanaan) adalah perangkat desa yang bertugas membantu
+                    Sekretaris Desa dalam bidang pelayanan administrasi perencanaan, penyusunan dokumen Rencana Pembangunan Desa
+                    (seperti RPJMDes dan RKPDes), serta penyiapan Anggaran Pendapatan dan Belanja Desa (APBDes).
                 </p>
 
             </div>
@@ -268,8 +282,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    Membantu Kepala Desa dalam penyelenggaraan
-                    pemerintahan dan pelayanan masyarakat di dusun.
+                    Kepala Dusun I atau Kadus I adalah perangkat desa yang bertindak sebagai
+                    unsur pelaksana kewilayahan untuk membantu Kepala Desa. Jabatan ini memimpin wilayah dusun pertama di suatu desa,
+                    serta bertanggung jawab mengelola pembangunan, ketertiban, dan pelayanan warga di wilayahnya.
                 </p>
 
             </div>
@@ -299,8 +314,7 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    Membantu Kepala Desa dalam penyelenggaraan
-                    pemerintahan dan pelayanan masyarakat di dusun.
+                    Kepala Dusun II adalah perangkat desa bagian kewilayahan di Indonesia yang membantu Kepala Desa memimpin dan melayani warga pada wilayah Dusun II.
                 </p>
 
             </div>
@@ -330,8 +344,9 @@
                 </h3>
 
                 <p class="yd-organization-card__desc">
-                    Membantu Kepala Desa dalam penyelenggaraan
-                    pemerintahan dan pelayanan masyarakat di dusun.
+                    Kepala Dusun III adalah unsur pelaksana kewilayahan (dusun)
+                    yang bertugas membantu Kepala Desa di lingkungan wilayah kerjanya yang ketiga.
+                     Posisi ini merupakan bagian dari perangkat desa di Indonesia yang memimpin pembinaan ketenteraman, ketertiban, serta pembangunan di dusun tersebut.
                 </p>
 
             </div>
