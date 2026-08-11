@@ -47,11 +47,7 @@
 
         {{-- CTA Button --}}
         <a href="{{ url('/')}}#pendaftaran" class="yd-btn yd-btn--primary yd-navbar__cta">
-<<<<<<< HEAD
             Hubungi Kami
-=======
-            Daftar Sekarang
->>>>>>> c1b2ccd1082017e3d2eedd203b6fa0e8d2783f34
         </a>
 
         {{-- Hamburger Menu (Mobile) --}}
