@@ -21,6 +21,7 @@ Halaman utama — menyusun semua section
 {{-- ============================================================
      KEPEMIMPINAN
      ============================================================ --}}
+
 <section class="yd-section yd-leadership">
 
     <div class="yd-container">
@@ -31,29 +32,33 @@ Halaman utama — menyusun semua section
             <h2 class="yd-section-title">Hall of Excellence</h2>
         </div>
 
-
-        {{-- Grid Pimpinan --}}
-        <div class="yd-leadership__grid">
+        {{-- Pimpinan --}}
+        <div class="yd-leadership__grid" style="display: flex; justify-content: center;">
 
             @php
                 $leaders = [
                     [
-                        'name' => 'Bapak Deni Abdul Kholik, S.Pd.I., M.A.P.',
-                        'role' => 'Kepala PKBM NURUL FATA',
-                        'image' => asset('landing_page/images/deni.jpeg'),
+                        'name' => 'DEDI KUSMARA',
+                        'role' => 'Kepala Desa Cintaasih',
+                        'image' => asset('landing_page/images/dedi.jpeg'),
                         'desc' => "Assalamu'alaikum Warahmatullahi Wabarakatuh. Kami bersyukur atas kepercayaan yang diberikan kepada PKBM NURUL FATA. Setiap peserta didik adalah amanah yang harus kita kembangkan potensinya secara maksimal. Mari bersama-sama membangun generasi yang unggul dalam prestasi dan berkarakter kuat dalam budaya Islami."
                     ],
                 ];
             @endphp
 
-
-            {{-- Perulangan data pimpinan --}}
             @foreach($leaders as $leader)
 
-                <div class="yd-leader-card" data-aos="fade-up">
+                <div
+                    class="yd-leader-card"
+                    data-aos="fade-up"
+                    style="text-align: center; width: 100%; max-width: 420px;"
+                >
 
                     {{-- Foto Pimpinan --}}
-                    <div class="yd-leader-card__image-wrap">
+                    <div
+                        class="yd-leader-card__image-wrap"
+                        style="display: flex; justify-content: center;"
+                    >
 
                         <img
                             src="{{ $leader['image'] }}"
@@ -63,7 +68,6 @@ Halaman utama — menyusun semua section
                         >
 
                     </div>
-
 
                     {{-- Informasi Pimpinan --}}
                     <div class="yd-leader-card__body">

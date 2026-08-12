@@ -14,10 +14,10 @@
         <div class="yd-Potensi__grid">
             @php
                 $Potensi = [
-                    ['image' => asset('landing_page/images/masjid.jpg'), 'title' => 'Sumber Daya Alam', 'desc' => 'Masjid megah berkapasitas 500 jamaah sebagai pusat kegiatan ibadah dan kajian keagamaan.'],
-                    ['image' => asset('landing_page/images/library.jpg'), 'title' => 'Sumber Daya Manusia', 'desc' => 'Perpustakaan lengkap untuk kegiatan belajar dan penelitian.'],
-                    ['image' => asset('landing_page/images/ruang.jpg'), 'title' => 'Sumber Daya Kelembagaan', 'desc' => 'Ruang kelas yang nyaman dan bersih untuk kegiatan pembelajaran.'],
-                    ['image' => asset('landing_page/images/labkom.jpeg'), 'title' => 'Sumber Daya Sarana dan Prasarana', 'desc' => 'Lab komputer lengkap dengan peralatan modern untuk praktikum dan penelitian.'],
+                    ['image' => asset('landing_page/images/masjid.jpg'), 'title' => 'Sumber Daya Alam', 'desc' => 'Desa Cintaasih di Kecamatan Gekbrong, Kabupaten Cianjur, memiliki sumber daya alam yang didominasi oleh sektor pertanian, perkebunan, dan peternakan. Wilayah seluas sekitar 1.067 hektare ini berada di kawasan pegunungan yang subur, sehingga menghasilkan potensi alam dan lingkungan pedesaan yang asri.'],
+                    ['image' => asset('landing_page/images/library.jpg'), 'title' => 'Sumber Daya Manusia', 'desc' => 'Sumber daya manusia (SDM) di Desa Cintaasih, Kecamatan Gekbrong, Kabupaten Cianjur, berpusat pada masyarakat agraris yang aktif dalam sektor pertanian, perkebunan, dan kegiatan sosial kemasyarakatan yang ditunjang oleh kepemimpinan aparatur desa serta struktur kewilayahan yang terbagi ke dalam beberapa RT, RW, dan dusun.'],
+                    ['image' => asset('landing_page/images/ruang.jpg'), 'title' => 'Sumber Daya Kelembagaan', 'desc' => 'Sumber daya kelembagaan di Desa Cintaasih, Kecamatan Gekbrong, Kabupaten Cianjur, berpusat pada sinergi antara Pemerintahan Desa, lembaga kemasyarakatan formal, serta partisipasi aktif warga dalam pembangunan infrastruktur dan pelayanan publik.'],
+                    ['image' => asset('landing_page/images/labkom.jpeg'), 'title' => 'Sumber Daya Sarana dan Prasarana', 'desc' => 'Desa Cintaasih di Kecamatan Gekbrong, Kabupaten Cianjur, memiliki sumber daya sarana dan prasarana penunjang perdesaan yang meliputi fasilitas pemerintahan desa, sarana pendidikan dasar (seperti SD Negeri), fasilitas keagamaan/MDT, serta aksesibilitas wilayah yang mencakup pembagian administratif dusun, RW, dan RT untuk mendukung aktivitas ekonomi serta pertanian warga.'],
                 ];
             @endphp
 
