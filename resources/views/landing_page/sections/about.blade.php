@@ -65,18 +65,18 @@
         {{-- Two Institutions Cards --}}
         <div class="yd-about__institutions">
 
-            {{-- Card: MA --}}
+            {{-- Card: VISI --}}
             <div class="yd-about__inst-card">
                 <div class="yd-about__inst-icon"><i class="fas fa-mosque"></i></div>
-                <h3 class="yd-about__inst-title">VISI</h3>
+               akademik dan pembentukan karakter Islami bagi siswa yang ingin melanjutkan
+                       <h3 class="yd-about__inst-title">VISI</h3>
                 <p class="yd-about__inst-desc">
                     Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
-                    akademik dan pembentukan karakter Islami bagi siswa yang ingin melanjutkan
-                    ke jenjang pendidikan tinggi.
+                  ke jenjang pendidikan tinggi.
                 </p>
             </div>
 
-            {{-- Card: PKBM --}}
+            {{-- Card: MISI --}}
             <div class="yd-about__inst-card">
                 <div class="yd-about__inst-icon"><i class="fas fa-book-open"></i></div>
                 <h3 class="yd-about__inst-title">MISI</h3>
