@@ -65,34 +65,26 @@
         {{-- Two Institutions Cards --}}
         <div class="yd-about__institutions">
 
-            {{-- Card: MA --}}
+            {{-- Card: VISI --}}
             <div class="yd-about__inst-card">
                 <div class="yd-about__inst-icon"><i class="fas fa-mosque"></i></div>
-                <h3 class="yd-about__inst-title">MAS AL MUSTOFAWIYAH</h3>
-                <p class="yd-about__inst-sub">Madrasah Aliyah Swasta</p>
+               akademik dan pembentukan karakter Islami bagi siswa yang ingin melanjutkan
+                       <h3 class="yd-about__inst-title">VISI</h3>
                 <p class="yd-about__inst-desc">
                     Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
-                    akademik dan pembentukan karakter Islami bagi siswa yang ingin melanjutkan
-                    ke jenjang pendidikan tinggi.
+                  ke jenjang pendidikan tinggi.
                 </p>
-                <button class="yd-about__inst-link" data-modal="modal-ma" aria-haspopup="dialog">
-                    Selengkapnya <i class="fas fa-arrow-right"></i>
-                </button>
             </div>
 
-            {{-- Card: PKBM --}}
+            {{-- Card: MISI --}}
             <div class="yd-about__inst-card">
                 <div class="yd-about__inst-icon"><i class="fas fa-book-open"></i></div>
-                <h3 class="yd-about__inst-title">PKBM NURUL FATA</h3>
-                <p class="yd-about__inst-sub">Pusat Kegiatan Belajar Masyarakat</p>
+                <h3 class="yd-about__inst-title">MISI</h3>
                 <p class="yd-about__inst-desc">
                     Pusat Kegiatan Belajar Masyarakat yang menyediakan program pendidikan
                     fleksibel untuk masyarakat umum, mencakup program kesetaraan dan keterampilan
                     praktis sesuai kebutuhan komunitas.
                 </p>
-                <button class="yd-about__inst-link" data-modal="modal-pkbm" aria-haspopup="dialog">
-                    Selengkapnya <i class="fas fa-arrow-right"></i>
-                </button>
             </div>
 
         </div>
