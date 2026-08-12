@@ -22,23 +22,21 @@
                         <div class="yd-contact__info-icon"><i class="fas fa-map-marker-alt"></i></div>
                         <div>
                             <strong>Alamat</strong>
-                            <p>Jl. Pesantren No. 1, Karangtengah<br>Cianjur, Jawa Barat 43281</p>
+                            <p>Jl. Pasirhuni, Cintaasih, <br>Kec. Gekbrong, Kabupaten Cianjur, Jawa Barat 43261</p>
                         </div>
                     </li>
                     <li class="yd-contact__info-item">
                         <div class="yd-contact__info-icon"><i class="fas fa-phone"></i></div>
                         <div>
                             <strong>Telepon</strong>
-                            <p>MA: <a href="tel:+6285720696453">+62 857-2069-6453</a><br>
-                               PKBM: <a href="tel:+6285720609821">+62 857-2060-9821</a></p>
+                            <p>No Whatsapp: <a href="tel:+6285720696453">+62 858-0273-2708</a><br>
                         </div>
                     </li>
                     <li class="yd-contact__info-item">
                         <div class="yd-contact__info-icon"><i class="fas fa-envelope"></i></div>
                         <div>
                             <strong>Email</strong>
-                            <p><a href="mailto:info@darusalam.sch.id">info@darusalam.sch.id</a><br>
-                               <a href="mailto:pendaftaran@darusalam.sch.id">pendaftaran@darusalam.sch.id</a></p>
+                            <p><a href="mailto:Desacintaasih6@gmail.com">Desacintaasih6@gmail.com</a><br>
                         </div>
                     </li>
                     <li class="yd-contact__info-item">
@@ -46,8 +44,6 @@
                         <div>
                             <strong>Jam Kerja</strong>
                             <p>Senin – Jumat: 07.00–16.00<br>
-                               Sabtu: 07.00–12.00<br>
-                               Minggu: 08.00–12.00</p>
                         </div>
                     </li>
                 </ul>
