@@ -1205,7 +1205,7 @@ h4 {
 }
 .yd-leadership__grid {
     display: grid;
-    grid-template-columns: 1fr; 
+    grid-template-columns: 1fr;
     width: 100%;
 }
 
