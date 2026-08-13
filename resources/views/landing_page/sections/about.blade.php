@@ -20,8 +20,31 @@
                 <p class="text-justify">
                     Pemerintah Desa Cintaasih hadir di tengah kehangatan wilayah administrasi Gekbrong, Cianjur, dengan tekad kuat untuk membangun masyarakat yang mandiri secara ekonomi dan maju dalam pembangunan infrastruktur. 
                     Kami percaya bahwa kemajuan desa berawal dari sinergi, rasa cinta, dan keterbukaan yang nyata antara perangkat daerah serta seluruh lapisan warga. 
-                    Desa Cintaasih berkomitmen penuh menghadirkan pelayanan publik berkualitas tinggi yang merangkul potensi lokal di sektor pertanian, UMKM, serta terus melestarikan warisan nilai gotong royong dan semangat nasionalisme demi tumbuh bersama menuju masa depan yang lebih sejahtera.
+                    Desa Cintaasih berkomitmen penuh menghadirkan pelayanan publik berkualitas tinggi yang merangkul potensi lokal di sektor pertanian, UMKM, serta terus melestarikan warisan nilai gotong royong dan semangat nasionalisme 
+                    demi tumbuh bersama menuju masa depan yang lebih sejahtera.
                 </p>
+<<<<<<< HEAD
+=======
+
+                {{-- Stats --}}
+                <div class="yd-about__stats">
+                    <div class="yd-about__stat">
+                        <span class="yd-about__stat-num">3</span>
+                        <span class="yd-about__stat-label">Dusun</span>
+                    </div>
+                    <div class="yd-about__stat-divider"></div>
+                    <div class="yd-about__stat">
+                        <span class="yd-about__stat-num">06</span>
+                        <span class="yd-about__stat-label">RW</span>
+                    </div>
+                    <div class="yd-about__stat-divider"></div>
+                    <div class="yd-about__stat">
+                        <span class="yd-about__stat-num">29</span>
+                        <span class="yd-about__stat-label">RT</span>
+                    </div>
+                </div>
+
+>>>>>>> 66454f764e54afaec7cbee25f0103f9799bb669e
                 <a href="#sejarah" class="yd-btn yd-btn--primary yd-about__cta">
                     Selengkapnya <i class="fas fa-arrow-right"></i>
                 </a>

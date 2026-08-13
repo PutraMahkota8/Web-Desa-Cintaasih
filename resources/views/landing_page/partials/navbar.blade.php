@@ -47,7 +47,7 @@
 
         {{-- CTA Button --}}
         <a href="{{ url('/')}}#pendaftaran" class="yd-btn yd-btn--primary yd-navbar__cta">
-            Daftar Sekarang
+            Hubungi Kami
         </a>
 
         {{-- Hamburger Menu (Mobile) --}}
