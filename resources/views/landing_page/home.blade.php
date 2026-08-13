@@ -34,13 +34,12 @@ Halaman utama — menyusun semua section
 
         {{-- Grid Pimpinan --}}
         <div class="yd-leadership__grid">
-
             @php
                 $leaders = [
                     [
-                        'name' => 'Bapak Deni Abdul Kholik, S.Pd.I., M.A.P.',
-                        'role' => 'Kepala PKBM NURUL FATA',
-                        'image' => asset('landing_page/images/deni.jpeg'),
+                        'name' => 'DEDI KUSMARA',
+                        'role' => 'Kepala Desa Cintaasih    ',
+                        'image' => asset('landing_page/images/dedi.jpeg'),
                         'desc' => "Assalamu'alaikum Warahmatullahi Wabarakatuh. Kami bersyukur atas kepercayaan yang diberikan kepada PKBM NURUL FATA. Setiap peserta didik adalah amanah yang harus kita kembangkan potensinya secara maksimal. Mari bersama-sama membangun generasi yang unggul dalam prestasi dan berkarakter kuat dalam budaya Islami."
                     ],
                 ];

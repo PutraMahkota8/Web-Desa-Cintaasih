@@ -56,7 +56,7 @@
     <div class="yd-prog-panel" id="prog-panel-prestasi" role="tabpanel">
 
       <!-- Stats -->
-      <div class="yd-prestasi-stats">
+      <div class="yd-prestasi-stats"> 
         <div class="yd-prestasi-stat"><span class="yd-prestasi-stat__num yd-prestasi-stat__num--primary">250<sup>+</sup></span><span class="yd-prestasi-stat__label">Penghargaan Total</span></div>
         <div class="yd-prestasi-stat"><span class="yd-prestasi-stat__num yd-prestasi-stat__num--secondary">85<sup>%</sup></span><span class="yd-prestasi-stat__label">Lulusan PTN</span></div>
         <div class="yd-prestasi-stat"><span class="yd-prestasi-stat__num yd-prestasi-stat__num--primary">42</span><span class="yd-prestasi-stat__label">Medali Emas 2024</span></div>

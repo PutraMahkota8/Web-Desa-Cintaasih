@@ -20,24 +20,25 @@
                 <p class="text-justify">
                     Pemerintah Desa Cintaasih hadir di tengah kehangatan wilayah administrasi Gekbrong, Cianjur, dengan tekad kuat untuk membangun masyarakat yang mandiri secara ekonomi dan maju dalam pembangunan infrastruktur. 
                     Kami percaya bahwa kemajuan desa berawal dari sinergi, rasa cinta, dan keterbukaan yang nyata antara perangkat daerah serta seluruh lapisan warga. 
-                    Desa Cintaasih berkomitmen penuh menghadirkan pelayanan publik berkualitas tinggi yang merangkul potensi lokal di sektor pertanian, UMKM, serta terus melestarikan warisan nilai gotong royong dan semangat nasionalisme demi tumbuh bersama menuju masa depan yang lebih sejahtera.
+                    Desa Cintaasih berkomitmen penuh menghadirkan pelayanan publik berkualitas tinggi yang merangkul potensi lokal di sektor pertanian, UMKM, serta terus melestarikan warisan nilai gotong royong dan semangat nasionalisme 
+                    demi tumbuh bersama menuju masa depan yang lebih sejahtera.
                 </p>
 
                 {{-- Stats --}}
                 <div class="yd-about__stats">
                     <div class="yd-about__stat">
-                        <span class="yd-about__stat-num">35<sup>+</sup></span>
-                        <span class="yd-about__stat-label">Tahun Berdiri</span>
+                        <span class="yd-about__stat-num">3</span>
+                        <span class="yd-about__stat-label">Dusun</span>
                     </div>
                     <div class="yd-about__stat-divider"></div>
                     <div class="yd-about__stat">
-                        <span class="yd-about__stat-num">12K<sup>+</sup></span>
-                        <span class="yd-about__stat-label">Alumni &amp; Anggota</span>
+                        <span class="yd-about__stat-num">06</span>
+                        <span class="yd-about__stat-label">RW</span>
                     </div>
                     <div class="yd-about__stat-divider"></div>
                     <div class="yd-about__stat">
-                        <span class="yd-about__stat-num">2</span>
-                        <span class="yd-about__stat-label">Lembaga Pendidikan</span>
+                        <span class="yd-about__stat-num">29</span>
+                        <span class="yd-about__stat-label">RT</span>
                     </div>
                 </div>
 
@@ -67,18 +68,17 @@
 
             {{-- Card: VISI --}}
             <div class="yd-about__inst-card">
-                <div class="yd-about__inst-icon"><i class="fas fa-mosque"></i></div>
-               akademik dan pembentukan karakter Islami bagi siswa yang ingin melanjutkan
-                       <h3 class="yd-about__inst-title">VISI</h3>
+                <div class="yd-about__inst-icon"><i class="fas fa-eye"></i></div>
+                <h3 class="yd-about__inst-title">VISI</h3>
                 <p class="yd-about__inst-desc">
-                    Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
-                  ke jenjang pendidikan tinggi.
+                     Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
+                     ke jenjang pendidikan tinggi.
                 </p>
             </div>
 
             {{-- Card: MISI --}}
             <div class="yd-about__inst-card">
-                <div class="yd-about__inst-icon"><i class="fas fa-book-open"></i></div>
+                <div class="yd-about__inst-icon"><i class="fas fa-bullseye"></i></div>
                 <h3 class="yd-about__inst-title">MISI</h3>
                 <p class="yd-about__inst-desc">
                     Pusat Kegiatan Belajar Masyarakat yang menyediakan program pendidikan

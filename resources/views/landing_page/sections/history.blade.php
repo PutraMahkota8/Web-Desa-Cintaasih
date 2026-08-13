@@ -121,17 +121,6 @@
         ═══════════════════════════════════════ --}}
         <div class="yd-history__panel" id="tab-perkembangan">
 
-            {{-- Intro Banner --}}
-            <div class="yd-perkembangan__intro px-4 py-3">
-                <div class="yd-perkembangan__intro-icon"><i class="fas fa-lightbulb"></i></div>
-                <div>
-                    <h3 class="yd-perkembangan__intro-title">Visi Desa Cintaasih</h3>
-                    <p class="yd-perkembangan__intro-text">
-                        “Bersama-Sama Membangun Desa Cintaasih” dengan semangat moto “Cintaasih Salengkah Leuwih Maju” demi mewujudkan desa yang maju, mandiri, dan sejahtera
-                    </p>
-                </div>
-            </div>
-
             {{-- Accordion: PKBM NURUL FATA --}}
             <div class="yd-accordion yd-accordion--secondary" id="acc-pkbm">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-pkbm-body">
