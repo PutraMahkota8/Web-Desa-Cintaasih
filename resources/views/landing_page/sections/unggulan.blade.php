@@ -8,7 +8,7 @@
         <div class="yd-section-header yd-section-header--center">
             <p class="yd-section-label">Program</p>
             <h2 class="yd-section-title">Program Unggulan</h2>
-            <p class="yd-section-subtitle">Program unggulan yang mendukung proses belajar mengajar berkualitas tinggi.</p>
+            <p class="yd-section-subtitle">Program unggulan Desa yang Difokuskan untuk Pemberian Dampak Kepada Masyarakat Desa Cintaasih</p>
         </div>
 
         <div class="yd-facilities__grid">
