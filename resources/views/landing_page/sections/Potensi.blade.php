@@ -14,7 +14,7 @@
         <div class="yd-Potensi__grid">
             @php
                 $Potensi = [
-                    ['image' => asset('landing_page/images/masjid.jpg'), 'title' => 'Sumber Daya Alam', 'desc' => 'Masjid megah berkapasitas 500 jamaah sebagai pusat kegiatan ibadah dan kajian keagamaan.'],
+                    ['image' => asset('landing_page/images/Ieu Foto Curug.jpeg'), 'title' => 'Sumber Daya Alam', 'desc' => 'Curug dan pemandangan alam yang indah sebagai potensi wisata desa.'],
                     ['image' => asset('landing_page/images/library.jpg'), 'title' => 'Sumber Daya Manusia', 'desc' => 'Perpustakaan lengkap untuk kegiatan belajar dan penelitian.'],
                     ['image' => asset('landing_page/images/ruang.jpg'), 'title' => 'Sumber Daya Kelembagaan', 'desc' => 'Ruang kelas yang nyaman dan bersih untuk kegiatan pembelajaran.'],
                     ['image' => asset('landing_page/images/labkom.jpeg'), 'title' => 'Sumber Daya Sarana dan Prasarana', 'desc' => 'Lab komputer lengkap dengan peralatan modern untuk praktikum dan penelitian.'],

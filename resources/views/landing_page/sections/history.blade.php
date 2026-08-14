@@ -127,7 +127,7 @@
                 <div>
                     <h3 class="yd-perkembangan__intro-title">Visi Desa Cintaasih</h3>
                     <p class="yd-perkembangan__intro-text">
-                        “Bersama-Sama Membangun Desa Cintaasih” dengan semangat moto “Cintaasih Salengkah Leuwih Maju” demi mewujudkan desa yang maju, mandiri, dan sejahtera
+                        Terbangunnya tata Pemerintahan Desa yang jujur dan tegas guna mewujudkan kehidupan masyarakat Desa Cintaasih yang Adil, Makmur, Aman dan Sejahtera.
                     </p>
                 </div>
             </div>

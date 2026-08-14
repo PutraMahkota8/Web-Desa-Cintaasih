@@ -32,7 +32,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/kepala-desa.png') }}"
+                    src="{{ asset('landing_page/images/sekretaris desa.jpeg') }}"
                     alt="Sekretaris Desa"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -65,7 +65,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/kelas.jpg') }}"
+                    src="{{ asset('landing_page/images/kasi pelayanan.jpeg') }}"
                     alt="Kasi Pembangunan & Pemberdayaan"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -98,7 +98,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/kegiatan.jpeg') }}"
+                    src="{{ asset('landing_page/images/kasi pemerintahan desa.jpeg') }}"
                     alt="Kaur Perencanaan"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -131,7 +131,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
+                    src="{{ asset('landing_page/images/kasi kesra.jpg') }}"
                     alt="Kaur Tata Usaha dan Umum"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -165,8 +165,8 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
-                    alt="Kasi Pemerintahan"
+                    src="{{ asset('landing_page/images/kaur umum.jpeg') }}"
+                    alt="Kaur Umum"
                     class="yd-organization-card__image"
                     loading="lazy"
                 >
@@ -198,8 +198,8 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
-                    alt="Kasi Kesejahteraan"
+                    src="{{ asset('landing_page/images/kaur keuangan.jpg') }}"
+                    alt="Kaur Keuangan"
                     class="yd-organization-card__image"
                     loading="lazy"
                 >
@@ -231,8 +231,8 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
-                    alt="Kasi Pelayanan"
+                    src="{{ asset('landing_page/images/kaur perencanaan.jpeg') }}"
+                    alt="Kaur Perencanaan"
                     class="yd-organization-card__image"
                     loading="lazy"
                 >
@@ -264,7 +264,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
+                    src="{{ asset('landing_page/images/kadus 1.jpg') }}"
                     alt="Kepala Dusun"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -296,7 +296,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
+                    src="{{ asset('landing_page/images/kadus 2.jpg') }}"
                     alt="Kepala Dusun"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -326,7 +326,7 @@
 
             <div class="yd-organization-card__image-wrap">
                 <img
-                    src="{{ asset('landing_page/images/labkom.jpeg') }}"
+                    src="{{ asset('landing_page/images/kadus 3.jpg') }}"
                     alt="Kepala Dusun"
                     class="yd-organization-card__image"
                     loading="lazy"
