@@ -27,14 +27,7 @@
                     <a href="{{ url('/')}}#sejarah" class="yd-navbar__link">Sejarah</a>
                 </li>
                 <li class="yd-navbar__item yd-navbar__item--dropdown">
-                    <a href="#" class="yd-navbar__link yd-navbar__link--dropdown-toggle">
-                        Program <i class="fas fa-chevron-down yd-navbar__chevron"></i>
-                    </a>
-                    <ul class="yd-navbar__dropdown">
-                        <li><a href="{{ url('/')}}#MA" class="yd-navbar__dropdown-link">MAS AL MUSTOFAWIYAH</a></li>
-                        <li><a href="{{ url('/')}}#PKBM" class="yd-navbar__dropdown-link">PKBM NURUL FATA</a></li>
-                        <li><a href="{{ url('/')}}#akademik" class="yd-navbar__dropdown-link">Program Akademik</a></li>
-                    </ul>
+                    <a href="{{ url('/')}}#unggulan" class="yd-navbar__link">Program Unggulan</a>
                 </li>
                 <li class="yd-navbar__item">
                     <a href="{{ url('/')}}#Potensi" class="yd-navbar__link">Potensi</a>
@@ -61,8 +54,6 @@
             <li><a href="{{ url('/') }}#Potensi" class="yd-navbar__mobile-link">Potensi</a></li>
             <li><a href="{{ url('/') }}#kontak" class="yd-navbar__mobile-link">Kontak</a></li>
             <li>
-                <a href="{{ url('/') }}#pendaftaran" class="yd-btn yd-btn--primary yd-navbar__mobile-cta">
-                    Daftar Sekarang
                 </a>
             </li>
         </ul>
