@@ -22,23 +22,21 @@
                         <div class="yd-contact__info-icon"><i class="fas fa-map-marker-alt"></i></div>
                         <div>
                             <strong>Alamat</strong>
-                            <p>Jl. Pesantren No. 1, Karangtengah<br>Cianjur, Jawa Barat 43281</p>
+                            <p>Jl. Pasirhuni, Cintaasih, <br>Kec. Gekbrong, Kabupaten Cianjur, Jawa Barat 43261</p>
                         </div>
                     </li>
                     <li class="yd-contact__info-item">
                         <div class="yd-contact__info-icon"><i class="fas fa-phone"></i></div>
                         <div>
                             <strong>Telepon</strong>
-                            <p>MA: <a href="tel:+6285720696453">+62 857-2069-6453</a><br>
-                               PKBM: <a href="tel:+6285720609821">+62 857-2060-9821</a></p>
+                            <p>No Whatsapp: <a href="tel:+6285720696453">+62 858-0273-2708</a><br>
                         </div>
                     </li>
                     <li class="yd-contact__info-item">
                         <div class="yd-contact__info-icon"><i class="fas fa-envelope"></i></div>
                         <div>
                             <strong>Email</strong>
-                            <p><a href="mailto:info@darusalam.sch.id">info@darusalam.sch.id</a><br>
-                               <a href="mailto:pendaftaran@darusalam.sch.id">pendaftaran@darusalam.sch.id</a></p>
+                            <p><a href="mailto:Desacintaasih6@gmail.com">Desacintaasih6@gmail.com</a><br>
                         </div>
                     </li>
                     <li class="yd-contact__info-item">
@@ -46,8 +44,6 @@
                         <div>
                             <strong>Jam Kerja</strong>
                             <p>Senin – Jumat: 07.00–16.00<br>
-                               Sabtu: 07.00–12.00<br>
-                               Minggu: 08.00–12.00</p>
                         </div>
                     </li>
                 </ul>
@@ -56,12 +52,13 @@
                 <div class="yd-contact__map">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8504846155006!2d107.08892469999999!3d-6.9084753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e684f6342b604fb%3A0x4165ecef18f5503b!2sKantor%20Pemerintahan%20Desa%20Cintaasih!5e0!3m2!1sid!2sid!4v1786105778017!5m2!1sid!2sid"
+                        width="100%"
                         height="220"
                         style="border:0; border-radius: 15px;"
                         allowfullscreen=""
                         loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"
-                        title="Lokasi Yayasan Darusalam">
+                        title="Lokasi Kantor Desa Cintaasih">
                     </iframe>
                 </div>
             </div>
@@ -133,11 +130,10 @@
                                 class="yd-form-select @error('inquiry_type') yd-form-input--error @enderror"
                                 required>
                             <option value="">Pilih topik...</option>
-                            <option value="penerimaan" {{ old('inquiry_type') === 'penerimaan' ? 'selected' : '' }}>Penerimaan Siswa Baru</option>
-                            <option value="program" {{ old('inquiry_type') === 'program' ? 'selected' : '' }}>Informasi Program</option>
-                            <option value="beasiswa" {{ old('inquiry_type') === 'beasiswa' ? 'selected' : '' }}>Beasiswa</option>
-                            <option value="saran" {{ old('inquiry_type') === 'saran' ? 'selected' : '' }}>Saran & Masukan</option>
-                            <option value="lainnya" {{ old('inquiry_type') === 'lainnya' ? 'selected' : '' }}>Lainnya</option>
+                            <option value="penerimaan" {{ old('inquiry_type') === 'Tentang Desa' ? 'selected' : '' }}>Tentang Desa</option>
+                            <option value="program" {{ old('inquiry_type') === 'Informasi Program' ? 'selected' : '' }}>Informasi Program</option>
+                            <option value="saran" {{ old('inquiry_type') === 'Saran & Masukan' ? 'selected' : '' }}>Saran & Masukan</option>
+                            <option value="lainnya" {{ old('inquiry_type') === 'Lainnya' ? 'selected' : '' }}>Lainnya</option>
                         </select>
                         @error('inquiry_type')
                             <span class="yd-form-error">{{ $message }}</span>

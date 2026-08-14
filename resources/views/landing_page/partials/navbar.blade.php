@@ -47,16 +47,8 @@
 
         {{-- CTA Button --}}
         <a href="{{ url('/')}}#pendaftaran" class="yd-btn yd-btn--primary yd-navbar__cta">
-            Daftar Sekarang
+            Hubungi Kami
         </a>
-
-        {{-- Hamburger Menu (Mobile) --}}
-        <button class="yd-navbar__hamburger" id="hamburger-btn" aria-label="Toggle Menu" aria-expanded="false">
-            <span></span>
-            <span></span>
-            <span></span>
-        </button>
-    </div>
 
     {{-- Mobile Menu --}}
     <div class="yd-navbar__mobile" id="mobile-menu" aria-hidden="true">

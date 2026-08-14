@@ -31,7 +31,7 @@
             <div class="yd-accordion" id="acc-latar">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-latar-body">
                     <span class="yd-accordion__icon"><i class="fas fa-user-circle"></i></span>
-                    <span class="yd-accordion__title">Latar Belakang</span>
+                    <span class="yd-accordion__title">Latar Belakang Desa</span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-latar-body" aria-hidden="true">
@@ -125,12 +125,9 @@
             <div class="yd-perkembangan__intro px-4 py-3">
                 <div class="yd-perkembangan__intro-icon"><i class="fas fa-lightbulb"></i></div>
                 <div>
-                    <h3 class="yd-perkembangan__intro-title">Visi Pendidikan Menyeluruh</h3>
+                    <h3 class="yd-perkembangan__intro-title">Visi Desa Cintaasih</h3>
                     <p class="yd-perkembangan__intro-text">
-                        Bagi KH Dandan Nasyir, pendidikan bukan sekadar ruang belajar, melainkan jalan panjang membangun
-                        peradaban umat. Dari prinsip itulah beliau tidak hanya mendirikan majelis taklim dan pesantren,
-                        tetapi juga merintis lembaga pendidikan formal dan nonformal sebagai bentuk nyata pengabdian
-                        kepada masyarakat.
+                        Terbangunnya tata Pemerintahan Desa yang jujur dan tegas guna mewujudkan kehidupan masyarakat Desa Cintaasih yang Adil, Makmur, Aman dan Sejahtera.
                     </p>
                 </div>
             </div>
@@ -140,33 +137,18 @@
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-pkbm-body">
                     <span class="yd-accordion__icon"><i class="fas fa-book-open"></i></span>
                     <span class="yd-accordion__title">
-                        PKBM NURUL FATA
-                        <span class="yd-accordion__badge">Didirikan 2014</span>
+                        INFRASTRUKTUR & PEMBANGUNAN
                     </span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-pkbm-body" aria-hidden="true">
                     <div class="yd-accordion__content">
                         <p>
-                            Kepedulian KH Dandan Nasyir terhadap masyarakat yang putus sekolah atau tidak memiliki akses
-                            pendidikan konvensional mendorong beliau mendirikan <strong>PKBM Nurul Fata</strong>. Lembaga ini
-                            merupakan pusat kegiatan belajar masyarakat yang berfokus pada pendidikan nonformal dengan visi
-                            memberikan kesempatan belajar bagi semua kalangan.
+                        • Pengecoran dan perbaikan Jalan Cipadang sepanjang sekitar 540 meter untuk memperlancar arus lalu lintas dan ekonomi warga.
                         </p>
-                        <p>
-                            PKBM Nurul Fata menjadi wadah bagi warga belajar dari berbagai usia untuk memperoleh pendidikan
-                            kesetaraan, keterampilan hidup, dan pemberdayaan sosial. Lembaga ini membuka peluang melalui:
-                        </p>
-                        <ul class="yd-accordion__list">
-                            <li><i class="fas fa-check-circle"></i> <strong>Paket A</strong> – setara SD/MI</li>
-                            <li><i class="fas fa-check-circle"></i> <strong>Paket B</strong> – setara SMP/MTs</li>
-                            <li><i class="fas fa-check-circle"></i> <strong>Paket C</strong> – setara SMA/MA</li>
-                        </ul>
-                        <p>
-                            Bagi KH Dandan Nasyir, pendidikan harus hadir untuk semua kalangan—tanpa batas usia, ekonomi,
-                            maupun latar belakang sosial. PKBM Nurul Fata menjadi simbol kepedulian sosial sekaligus bukti
-                            bahwa pendidikan dapat menjadi alat perubahan masyarakat.
-                        </p>
+                        <P>
+                        • Penataan lingkungan dan fasilitas umum secara berkala oleh pemerintah desa.
+                        </P>
                     </div>
                 </div>
             </div>
@@ -176,27 +158,20 @@
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-ma-body">
                     <span class="yd-accordion__icon"><i class="fas fa-mosque"></i></span>
                     <span class="yd-accordion__title">
-                        MA AL MUSTOFAWIYAH
-                        <span class="yd-accordion__badge">Didirikan Juli 2020</span>
+                        EKONOMI & PERTANIAN
                     </span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-ma-body" aria-hidden="true">
                     <div class="yd-accordion__content">
                         <p>
-                            Di bawah naungan semangat dakwah dan pemberdayaan, KH Dandan Nasyir mendirikan
-                            <strong>Madrasah Aliyah (MA) Al Mustofawiyah</strong> pada Juli 2020. Sekolah ini merupakan
-                            lembaga pendidikan formal yang memberikan akses pembelajaran berbasis keislaman bagi generasi muda.
+                        • Pengembangan potensi pertanian hortikultura unggulan, terutama komoditas lantak dan Sale.
                         </p>
                         <p>
-                            Kehadiran MA Al Mustofawiyah menjadi jawaban atas kebutuhan masyarakat akan pendidikan menengah
-                            yang memadukan ilmu agama dengan pengetahuan umum. Sekolah ini lahir dari cita-cita besar beliau
-                            agar anak-anak di lingkungan sekitar memiliki kesempatan memperoleh pendidikan berkualitas tanpa
-                            harus meninggalkan nilai-nilai keagamaan.
+                        • Program peningkatan kapasitas petani milenial serta pelaku usaha mikro, kecil, dan menengah (UMKM).
                         </p>
                         <p>
-                            Melalui MA Al Mustofawiyah, KH Dandan Nasyir berupaya mencetak generasi yang tidak hanya cerdas
-                            secara akademik, tetapi juga kuat dalam <em>akhlak dan spiritualitas</em>.
+                        • Dukungan hasil bumi lokal untuk sinergi ketahanan pangan dan gizi masyarakat.
                         </p>
                     </div>
                 </div>
@@ -206,31 +181,19 @@
             <div class="yd-accordion yd-accordion--secondary" id="acc-warisan">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-warisan-body">
                     <span class="yd-accordion__icon"><i class="fas fa-seedling"></i></span>
-                    <span class="yd-accordion__title">Warisan &amp; Kelanjutan Perjuangan</span>
+                    <span class="yd-accordion__title">Sosial & Mitigasi Bencana</span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-warisan-body" aria-hidden="true">
                     <div class="yd-accordion__content">
                         <p>
-                            Pendirian MA Al Mustofawiyah dan PKBM Nurul Fata memperlihatkan visi besar KH Dandan Nasyir
-                            dalam membangun masyarakat melalui jalur pendidikan yang menyeluruh. Ia memahami bahwa kemajuan
-                            umat tidak cukup hanya dengan dakwah di mimbar, tetapi juga melalui lembaga yang mampu
-                            melahirkan generasi berilmu, mandiri, dan berdaya saing.
+                         •  Pengembangan desain Kampung Siaga Bencana (KSB) melalui pelatihan perencanaan partisipatif warga.
                         </p>
                         <p>
-                            Kini, setelah wafatnya, perjuangan itu tidak berhenti. Pondok Pesantren dan Yayasan Darussalam
-                            terus dilanjutkan oleh putra-putrinya, menjaga warisan ilmu, akhlak, dan pengabdian yang telah
-                            ia bangun selama puluhan tahun.
+                         •  Kegiatan sosialisasi kesehatan masyarakat, termasuk edukasi reproduksi remaja.
                         </p>
-                        <blockquote class="yd-accordion__quote">
-                            ✨ KH Dandan Nasyir telah menanam fondasi penting bagi kemajuan pendidikan di Cianjur—
-                            menghubungkan nilai keislaman, ilmu pengetahuan, dan pemberdayaan masyarakat dalam satu visi
-                            besar: mencerdaskan kehidupan umat.
-                        </blockquote>
                         <p>
-                            Nama KH Dandan Nasyir akan terus hidup dalam ingatan para santri, masyarakat, dan generasi
-                            penerus sebagai ulama yang menanam ilmu dengan ketulusan, serta membangun peradaban dari
-                            lingkungan terdekatnya.
+                         •  Partisipasi aktif warga dan pemdes dalam acara kebangsaan dan kemasyarakatan.
                         </p>
                     </div>
                 </div>

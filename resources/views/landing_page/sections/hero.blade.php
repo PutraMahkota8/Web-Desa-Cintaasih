@@ -9,10 +9,10 @@
     <div class="yd-hero__carousel" id="hero-carousel">
         @php
             $slides = [
-                ['image' => asset('landing_page/images/carousel-1.jpg'), 'alt' => 'Kantor Desa Cintaasih'],
-                ['image' => asset('landing_page/images/carousel-2.jpeg'), 'alt' => 'Kegiatan Desa Cintaasih'],
-                ['image' => asset('landing_page/images/kelas.jpg'), 'alt' => 'Potensi Desa'],
-                ['image' => asset('landing_page/images/carousel-4.jpg'), 'alt' => 'Anggota Kelompok KKN'],
+                ['image' => asset('landing_page/images/Foto Kantor Beneran.jpeg'), 'alt' => 'Kantor Desa Cintaasih'],
+                ['image' => asset('landing_page/images/37.jpeg'), 'alt' => 'Kegiatan Desa Cintaasih'],
+                ['image' => asset('landing_page/images/Ieu Foto Curug.jpeg'), 'alt' => 'Potensi Desa'],
+                ['image' => asset('landing_page/images/WhatsApp Image 2026-08-11 at 12.07.21 AM.jpeg'), 'alt' => 'Perangkat Desa Cintaasih'],
             ];
         @endphp
 

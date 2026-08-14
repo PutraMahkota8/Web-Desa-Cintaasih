@@ -47,115 +47,16 @@
 
     <!-- Tab Nav -->
     <div class="yd-prog-tabs" role="tablist">
-      <button class="yd-prog-tab active" data-prog-tab="akademik" role="tab" aria-selected="true"><i class="fas fa-book-open"></i><span>Program Akademik</span></button>
-      <button class="yd-prog-tab" data-prog-tab="ekskul" role="tab" aria-selected="false"><i class="fas fa-running"></i><span>Ekstrakurikuler</span></button>
+      <button class="yd-prog-tab active" data-prog-tab="prestasi" role="tab" aria-selected="true"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
       <button class="yd-prog-tab" data-prog-tab="prestasi" role="tab" aria-selected="false"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
-    </div>
-
-    <!-- ══ PANEL 1: PROGRAM AKADEMIK ══ -->
-    <div class="yd-prog-panel active" id="prog-panel-akademik" role="tabpanel">
-
-      <div class="yd-aka-grid">
-        <!-- Kurikulum -->
-        <div class="yd-aka-card" data-aos>
-          <div class="yd-aka-card__head">
-            <div class="yd-aka-card__icon yd-aka-card__icon--primary"><i class="fas fa-layer-group"></i></div>
-            <h3 class="yd-aka-card__title">Kurikulum</h3>
-          </div>
-          <ul class="yd-aka-list">
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--primary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Kurikulum Merdeka</strong><span class="yd-aka-item__desc"> — Pembelajaran berpusat pada siswa dengan pendekatan holistik</span></span></li>
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--primary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">STEM Education</strong><span class="yd-aka-item__desc"> — Integrasi sains, teknologi, teknik, dan matematika untuk abad 21</span></span></li>
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--primary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Pembelajaran Berbasis Proyek</strong><span class="yd-aka-item__desc"> — Mengembangkan kemampuan praktis dan berpikir kritis</span></span></li>
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--primary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Literasi Digital</strong><span class="yd-aka-item__desc"> — Integrasi teknologi dalam setiap mata pelajaran</span></span></li>
-          </ul>
-        </div>
-        <!-- Kegiatan Akademik -->
-        <div class="yd-aka-card" data-aos>
-          <div class="yd-aka-card__head">
-            <div class="yd-aka-card__icon yd-aka-card__icon--secondary"><i class="fas fa-star"></i></div>
-            <h3 class="yd-aka-card__title">Kegiatan Akademik</h3>
-          </div>
-          <ul class="yd-aka-list">
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--secondary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Peringatan Hari Besar Islam</strong><span class="yd-aka-item__desc"> — Lomba dan penampilan seni yang diadakan setiap tahun</span></span></li>
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--secondary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Fieldtrip Edukatif</strong><span class="yd-aka-item__desc"> — Pembelajaran langsung di lapangan untuk penguatan materi</span></span></li>
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--secondary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Kompetisi Internal</strong><span class="yd-aka-item__desc"> — Lomba akademik dan non-akademik antar siswa secara berkala</span></span></li>
-            <li class="yd-aka-item"><span class="yd-aka-check yd-aka-check--secondary"><i class="fas fa-check"></i></span><span><strong class="yd-aka-item__title">Program Mentoring</strong><span class="yd-aka-item__desc"> — Bimbingan akademik intensif per siswa dari guru senior</span></span></li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Target Pembelajaran -->
-      <div class="yd-target-banner" data-aos>
-        <div class="yd-target-banner__header">
-          <div class="yd-target-banner__icon"><i class="fas fa-bullseye"></i></div>
-          <h3 class="yd-target-banner__title">Target Pembelajaran</h3>
-        </div>
-        <div class="yd-target-banner__cards">
-          <div class="yd-target-card yd-target-card--primary"><div class="yd-target-card__icon"><i class="fas fa-award"></i></div><strong class="yd-target-card__label">Nilai Ujian Unggul</strong><p class="yd-target-card__desc">Target rata-rata di atas standar nasional</p></div>
-          <div class="yd-target-card yd-target-card--secondary"><div class="yd-target-card__icon"><i class="fas fa-university"></i></div><strong class="yd-target-card__label">Diterima PTN &amp; Perusahaan</strong><p class="yd-target-card__desc">80% lulusan diterima di universitas dan perusahaan terkemuka</p></div>
-          <div class="yd-target-card yd-target-card--tertiary"><div class="yd-target-card__icon"><i class="fas fa-heart"></i></div><strong class="yd-target-card__label">Berkarakter Islami</strong><p class="yd-target-card__desc">Internalisasi nilai-nilai moral dan agama dalam kehidupan sehari-hari</p></div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ══ PANEL 2: EKSTRAKURIKULER ══ -->
-    <div class="yd-prog-panel" id="prog-panel-ekskul" role="tabpanel">
-      <div class="yd-ekskul-grid">
-
-        <div class="yd-ekskul-card" data-aos>
-          <div class="yd-ekskul-card__top">
-            <span class="yd-ekskul-card__emoji">⚜️</span>
-            <h3 class="yd-ekskul-card__name">Pramuka</h3>
-            <p class="yd-ekskul-card__desc">Program kepramukaan yang mengembangkan karakter, kepemimpinan, dan keterampilan survival siswa dengan metode pembelajaran yang menyenangkan dan interaktif.</p>
-          </div>
-          <div class="yd-ekskul-card__bottom">
-            <ul class="yd-ekskul-card__list">
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Latihan rutin setiap hari Kamis</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Camping berkala</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Sertifikat kepramukaan</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Pelatih profesional terlatih</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="yd-ekskul-card" data-aos>
-          <div class="yd-ekskul-card__top">
-            <span class="yd-ekskul-card__emoji">🎵</span>
-            <h3 class="yd-ekskul-card__name">Hadroh &amp; Musik Islami</h3>
-            <p class="yd-ekskul-card__desc">Kelompok seni musik islami yang memperdalam apresiasi seni budaya dan agama sambil mengasah bakat musik dan vokal siswa.</p>
-          </div>
-          <div class="yd-ekskul-card__bottom">
-            <ul class="yd-ekskul-card__list">
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--secondary"></span>Latihan intensif tiap minggu</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--secondary"></span>Pengutamaan tampil di lingkungan sekolah</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--secondary"></span>Sholawat Nabi</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="yd-ekskul-card" data-aos>
-          <div class="yd-ekskul-card__top">
-            <span class="yd-ekskul-card__emoji">🥋</span>
-            <h3 class="yd-ekskul-card__name">Silat &amp; Bela Diri</h3>
-            <p class="yd-ekskul-card__desc">Pelatihan seni beladiri tradisional yang mengembangkan disiplin, fokus, dan kepercayaan diri sambil menjaga kesehatan fisik optimal.</p>
-          </div>
-          <div class="yd-ekskul-card__bottom">
-            <ul class="yd-ekskul-card__list">
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Kelas untuk semua tingkat</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Pelatih berpengalaman</li>
-              <li class="yd-ekskul-card__item"><span class="yd-ekskul-dot yd-ekskul-dot--primary"></span>Siap kompetisi</li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
+      <button class="yd-prog-tab" data-prog-tab="prestasi" role="tab" aria-selected="false"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
     </div>
 
     <!-- ══ PANEL 3: PRESTASI SEKOLAH ══ -->
     <div class="yd-prog-panel" id="prog-panel-prestasi" role="tabpanel">
 
       <!-- Stats -->
-      <div class="yd-prestasi-stats">
+      <div class="yd-prestasi-stats"> 
         <div class="yd-prestasi-stat"><span class="yd-prestasi-stat__num yd-prestasi-stat__num--primary">250<sup>+</sup></span><span class="yd-prestasi-stat__label">Penghargaan Total</span></div>
         <div class="yd-prestasi-stat"><span class="yd-prestasi-stat__num yd-prestasi-stat__num--secondary">85<sup>%</sup></span><span class="yd-prestasi-stat__label">Lulusan PTN</span></div>
         <div class="yd-prestasi-stat"><span class="yd-prestasi-stat__num yd-prestasi-stat__num--primary">42</span><span class="yd-prestasi-stat__label">Medali Emas 2024</span></div>
