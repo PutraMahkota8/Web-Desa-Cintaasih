@@ -8,7 +8,11 @@
         <div class="yd-section-header yd-section-header--center">
             <p class="yd-section-label">Program</p>
             <h2 class="yd-section-title">Program Unggulan</h2>
+<<<<<<< HEAD
             <p class="yd-section-subtitle">Program unggulan Desa yang Difokuskan untuk Pemberian Dampak Kepada Masyarakat Desa Cintaasih</p>
+=======
+            <p class="yd-section-subtitle">Program unggulan yang mengedepankan kepentingan dan pemberdayaan masyarakat.</p>
+>>>>>>> Gawean-Damar
         </div>
 
         <div class="yd-facilities__grid">
@@ -19,8 +23,8 @@
                     ['image' => asset('landing_page/images/image031.jpg'), 'title' => 'Kegiatan Bantuan Langsung Tunai (BLT)', 'desc' => 'Bantuan Langsung Tunai (BLT) adalah program jaring pengaman sosial yang bersumber dari Dana Desa (DD) Desa Cintaasih. Program ini dirancang khusus untuk memberikan dukungan finansial secara langsung kepada keluarga penerima manfaat (KPM) yang masuk dalam kategori rentan, prasejahtera, atau mengalami krisis ekonomi, guna meringankan beban pengeluaran kebutuhan pokok sehari-hari.'],
                     ['image' => asset('landing_page/images/image054.jpg'), 'title' => 'Kegiatan Penyuluhan Ibu Hamil', 'desc' => 'Penyuluhan Kesehatan Ibu Hamil adalah program edukasi promotif dan preventif yang diselenggarakan secara berkala oleh Pemerintah Desa Cintaasih bekerja sama dengan Puskesmas setempat, bidan desa, serta para kader Posyandu. Program ini bertujuan untuk memberikan pendampingan, pengetahuan, serta kesadaran pentingnya menjaga kesehatan fisik dan mental sejak masa kehamilan hingga persiapan persalinan.'],
                     ['image' => asset('landing_page/images/image019.jpg'), 'title' => 'Kegiatan Penanggulangan Darurat Bencana ', 'desc' => 'Program penanggulangan darurat bencana yang dilaksanakan untuk meminimalkan dampak bencana dan memastikan keselamatan warga.'],
-                    ['image' => asset('landing_page/images/carousel-3.jpg'), 'title' => 'Pelatihan IT', 'desc' => 'Program pelatihan teknologi informasi untuk meningkatkan kemampuan digital siswa.'],
-                    ['image' => asset('landing_page/images/Briefing-Guru.jpg'), 'title' => 'Briefing dan Monitoring Tenaga Pendidik', 'desc' => 'Program rutin untuk meningkatkan kualitas pengajaran melalui briefing dan monitoring tenaga pendidik.'],
+                    ['image' => asset('landing_page/images/image003.jpg'), 'title' => 'Kegiatan Pemeliharaan Jalan Desa ( Pktd)', 'desc' => 'Program pemeliharaan jalan desa untuk menjaga kondisi jalan tetap baik dan aman bagi warga.'],
+                    ['image' => asset('landing_page/images/image027.jpg'), 'title' => 'Kegiatan Peningkatan Kapasitas Kepala Desa', 'desc' => 'Program peningkatan kapasitas kepala desa untuk meningkatkan kemampuan kepemimpinan dan manajemen pemerintahan desa.'],
                 ];
             @endphp
 

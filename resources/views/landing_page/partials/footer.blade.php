@@ -45,9 +45,11 @@
                 <h4 class="yd-footer__heading">Program</h4>
                 <ul class="yd-footer__links">
                     <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">Kajian Rutin</a></li>
-                    <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">BLT</a></li>
+                    <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">Bantuan Langsung Tunai (BLT)</a></li>
                     <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">Penyuluhan Ibu Hamil</a></li>
                     <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">Penanggulangan Darurat Bencana</a></li>
+                    <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">Pemeliharaan Jalan Desa</a></li>
+                    <li><a href="{{ url('/')}}#unggulan" class="yd-footer__link">Peningkatan Kapasitas Kepala Desa</a></li>
                 </ul>
             </div>
 
