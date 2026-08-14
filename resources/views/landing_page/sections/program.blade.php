@@ -47,7 +47,7 @@
 
     <!-- Tab Nav -->
     <div class="yd-prog-tabs" role="tablist">
-      <button class="yd-prog-tab" data-prog-tab="prestasi" role="tab" aria-selected="false"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
+      <button class="yd-prog-tab active" data-prog-tab="prestasi" role="tab" aria-selected="true"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
       <button class="yd-prog-tab" data-prog-tab="prestasi" role="tab" aria-selected="false"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
       <button class="yd-prog-tab" data-prog-tab="prestasi" role="tab" aria-selected="false"><i class="fas fa-trophy"></i><span>Prestasi Sekolah</span></button>
     </div>
