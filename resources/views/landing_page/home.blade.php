@@ -37,17 +37,10 @@ Halaman utama — menyusun semua section
             @php
                 $leaders = [
                     [
-<<<<<<< HEAD
                         'name' => 'DEDI KUSMARA',
                         'role' => 'Kepala PKBM NURUL FATA',
                         'image' => asset('landing_page/images/deni.jpeg'),
                         'desc' => "Assalamu'alaikum Warahmatullahi Wabarakatuh. Kami bersyukur atas kepercayaan yang diberikan kepada PKBM NURUL FATA. Setiap peserta didik adalah amanah yang harus kita kembangkan potensinya secara maksimal. Mari bersama-sama membangun generasi yang unggul dalam prestasi dan berkarakter kuat dalam budaya Islami."
-=======
-                        'name' => 'Bapak Dedi Kusmara',
-                        'role' => 'Kepala Desa Cintaasih',
-                        'image' => asset('landing_page/images/WhatsApp Image 2026-08-10 at 10.46.12 AM.jpeg'),
-                        'desc' => "Puji dan syukur marilah kita panjatkan ke hadirat Allah SWT, Tuhan Yang Maha Esa, karena atas rahmat dan karunia-Nya kita semua diberikan kesehatan dan kesempatan untuk terus berkarya demi kemajuan desa yang kita cintai. Sholawat serta salam semoga senantiasa tercurah kepada junjungan kita Nabi Besar Muhammad SAW, keluarga, sahabat, hingga kepada kita umatnya hingga akhir zaman. Sebagai Kepala Desa Cintaasih, Kecamatan Gekbrong, Kabupaten Cianjur, saya menyambut baik hadirnya platform digital ini sebagai sarana keterbukaan informasi dan pelayanan publik. Desa Cintaasih yang berada di bawah kaki Gunung Gede Pangrango memiliki potensi alam, pertanian, serta keberagaman budaya yang sangat luar biasa. Melalui media ini, kami berkomitmen untuk menghadirkan tata kelola pemerintahan desa yang transparan, akuntabel, dan dapat diakses dengan mudah oleh seluruh warga masyarakat maupun pihak luar. Akhir kata, kami mengucapkan terima kasih kepada seluruh pihak yang telah berkontribusi dalam mendukung program-program pembangunan di Desa Cintaasih. Mari kita bersama-sama menjaga keharmonisan, mengoptimalkan potensi lokal yang kita miliki, dan membawa Desa Cintaasih menuju masa depan yang lebih maju, makmur, dan berdaya saing di wilayah Kabupaten Cianjur."
->>>>>>> 4fd95d8d43fccbeb92c54fb208c7c8b083b7ef25
                     ],
                 ];
             @endphp
