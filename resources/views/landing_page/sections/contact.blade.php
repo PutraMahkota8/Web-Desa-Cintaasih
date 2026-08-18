@@ -130,11 +130,10 @@
                                 class="yd-form-select @error('inquiry_type') yd-form-input--error @enderror"
                                 required>
                             <option value="">Pilih topik...</option>
-                            <option value="penerimaan" {{ old('inquiry_type') === 'penerimaan' ? 'selected' : '' }}>Penerimaan Siswa Baru</option>
-                            <option value="program" {{ old('inquiry_type') === 'program' ? 'selected' : '' }}>Informasi Program</option>
-                            <option value="beasiswa" {{ old('inquiry_type') === 'beasiswa' ? 'selected' : '' }}>Beasiswa</option>
-                            <option value="saran" {{ old('inquiry_type') === 'saran' ? 'selected' : '' }}>Saran & Masukan</option>
-                            <option value="lainnya" {{ old('inquiry_type') === 'lainnya' ? 'selected' : '' }}>Lainnya</option>
+                            <option value="penerimaan" {{ old('inquiry_type') === 'Tentang Desa' ? 'selected' : '' }}>Tentang Desa</option>
+                            <option value="program" {{ old('inquiry_type') === 'Informasi Program' ? 'selected' : '' }}>Informasi Program</option>
+                            <option value="saran" {{ old('inquiry_type') === 'Saran & Masukan' ? 'selected' : '' }}>Saran & Masukan</option>
+                            <option value="lainnya" {{ old('inquiry_type') === 'Lainnya' ? 'selected' : '' }}>Lainnya</option>
                         </select>
                         @error('inquiry_type')
                             <span class="yd-form-error">{{ $message }}</span>

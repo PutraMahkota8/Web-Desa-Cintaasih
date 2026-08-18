@@ -15,10 +15,10 @@
             <div class="yd-testimonials__track" id="testimonials-track">
                 @php
                     $testimonials = [
-                        ['name' => 'Aisha Nur Azizah', 'role' => 'MAS AL MUSTOFAWIYAH 2023', 'avatar' => asset('images/avatar-1.jpg'), 'text' => 'Pendidikan di MAS AL MUSTOFAWIYAH telah mengubah hidup saya. Guru-guru yang peduli, fasilitas lengkap, dan lingkungan yang mendukung membantu saya meraih mimpi masuk ITB. Terima kasih Yayasan Darusalam!', 'rating' => 5],
-                        ['name' => 'Budi Suharno', 'role' => 'MAS AL MUSTOFAWIYAH 2022', 'avatar' => asset('images/avatar-2.jpg'), 'text' => 'Selain akademik, sekolah ini mengajarkan nilai-nilai karakter yang kuat. Kegiatan ekstrakurikuler seperti Pramuka dan Silat membentuk saya menjadi pribadi yang disiplin dan percaya diri. Sekarang saya kuliah di UI dan tetap aktif.', 'rating' => 5],
-                        ['name' => 'Citra Dewi Putri', 'role' => 'PKBM NURUL FATA 2023', 'avatar' => asset('images/avatar-3.jpg'), 'text' => 'Program PKBM NURUL FATA memberikan saya kesempatan untuk melanjutkan pendidikan. Program yang fleksibel dan dukungan mentor yang luar biasa membuat saya bisa bekerja dan belajar bersamaan.', 'rating' => 5],
-                        ['name' => 'Dr.Dedi Gunawan', 'role' => 'Alumni 2015 (Sekarang dosen)', 'avatar' => asset('images/avatar-4.jpg'), 'text' => 'Saya bangga pernah menjadi bagian dari Yayasan Darusalam. Fondasi akademik dan karakter yang diberikan telah membawa saya hingga meraih gelar doktor. Sekarang saya berkontribusi kembali sebagai dosen.', 'rating' => 5],
+                        ['name' => 'Misbah', 'role' => 'Ketua RT 01 KP. Cikiara', 'text' => 'Koordinasi antara perangkat desa dan para ketua RT/RW kini berjalan sangat harmonis. Setiap ada program pembangunan atau penyuluhan, informasinya selalu tersampaikan dengan cepat dan tepat sasaran kepada warga.', 'rating' => 5],
+                        ['name' => 'Aep Saepudin', 'role' => 'Ketua RW 02 KP. Legokgede', 'text' => 'Koordinasi dan pelayanan administrasi di Desa Cintaasih semakin profesional. Dengan adanya pengadaan mesin scanner baru di kantor desa, pengurusan dokumen kependudukan warga di wilayah Legokgede, Cimuncang, hingga Malangyuda jadi jauh lebih cepat terselesaikan.', 'rating' => 5],
+                        ['name' => 'Edi Susanto', 'role' => 'Ketua RW 03 KP. Kuntul', 'text' => 'Kami sangat mengapresiasi program sosialisasi kesehatan seperti pencegahan stunting, kelas ibu hamil, dan PHBS yang rutin diadakan. Warga kami di Kp. Kuntul, Cimenyan, hingga Cigandoang jadi lebih paham pentingnya menjaga kesehatan keluarga dan gizi anak.', 'rating' => 5],
+                        ['name' => 'Oman', 'role' => 'Ketua RW 04 KP. Sabun', 'text' => 'Pengajian rutin bulanan dan kegiatan keagamaan yang didukung penuh oleh pemerintah desa sukses mempererat tali silaturahmi antarwarga dan para tokoh agama di Kp. Sabun maupun Parabon, membuat suasana desa semakin sejuk dan harmonis.', 'rating' => 5],
                     ];
                 @endphp
 
@@ -33,10 +33,6 @@
                         "{{ $testimonial['text'] }}"
                     </blockquote>
                     <div class="yd-testimonial-card__author">
-                        <img src="{{ $testimonial['avatar'] }}"
-                             alt="{{ $testimonial['name'] }}"
-                             class="yd-testimonial-card__avatar"
-                             loading="lazy" />
                         <div class="yd-testimonial-card__author-info">
                             <span class="yd-testimonial-card__name">{{ $testimonial['name'] }}</span>
                             <span class="yd-testimonial-card__role">{{ $testimonial['role'] }}</span>
