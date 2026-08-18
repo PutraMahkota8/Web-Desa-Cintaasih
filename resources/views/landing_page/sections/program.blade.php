@@ -135,7 +135,7 @@
               <span class="yd-prestasi-text">
                 <strong>Pengeluaran Pembiayaan</strong><br>
                 Antara lain pembentukan dana cadangan, penyertaan modal daerah, pembayaran pokok utang,
-                dan pengeluaran pembiayaan lainnya sesuai ketentuan.
+                dan pengeluaran pembiayaan lainnya sesuai ketentuannya.
               </span>
             </li>
           </ul>
