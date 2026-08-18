@@ -120,11 +120,6 @@
              PANEL:Perkembangan Desa
         ═══════════════════════════════════════ --}}
         <div class="yd-history__panel" id="tab-perkembangan">
-<<<<<<< HEAD
-
-=======
-            
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
             {{-- Accordion: PKBM NURUL FATA --}}
             <div class="yd-accordion yd-accordion--secondary" id="acc-pkbm">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-pkbm-body">

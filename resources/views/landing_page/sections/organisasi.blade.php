@@ -26,20 +26,12 @@
     {{-- GRID ORGANISASI --}}
     <div class="yd-organization__grid">
 
-<<<<<<< HEAD
         {{-- BPD --}}
-=======
-        {{-- SEKRETARIS DESA --}}
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
         <div class="yd-organization-card" data-aos="fade-up">
 
             <div class="yd-organization-card__image-wrap">
                 <img
-<<<<<<< HEAD
                     src="{{ asset('landing_page/images/kepala-desa.png') }}"
-=======
-                    src="{{ asset('landing_page/images/sekretaris desa.jpeg') }}"
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
                     alt="Sekretaris Desa"
                     class="yd-organization-card__image"
                     loading="lazy"
@@ -53,7 +45,6 @@
                 </span>
 
                 <h3 class="yd-organization-card__title">
-<<<<<<< HEAD
                     DADAN SASMITA, S.Pd 
                 </h3>
 
@@ -61,24 +52,11 @@
                     Badan Permusyawaratan Desa (BPD) adalah lembaga yang melaksanakan fungsi pemerintahan di desa 
                     sebagai perwakilan dari penduduk desa. Lembaga ini sering disebut sebagai "parlemen" atau "DPRD" tingkat desa yang berkedudukan 
                     sejajar dan menjadi mitra kerja Kepala Desa.
-=======
-                    DADAN SASMITA, S.Pd
-                </h3>
-
-                <p class="yd-organization-card__desc">
-                    BPD atau (Badan Permusyawaratan Desa) adalah lembaga pemerintahan desa yang berfungsi 
-                    sebagai wadah penampung aspirasi masyarakat dan pengawas kinerja Kepala Desa. 
-                    BPD sering disebut sebagai "parlemen" atau perwakilan rakyat di tingkat desa.
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
                 </p>
 
             </div>
 
         </div>
-<<<<<<< HEAD
-=======
-
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
 
         {{-- SEKRETARIS DESA --}}
         <div class="yd-organization-card" data-aos="fade-up">

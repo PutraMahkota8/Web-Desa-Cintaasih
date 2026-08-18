@@ -71,12 +71,8 @@
                 <div class="yd-about__inst-icon"><i class="fas fa-eye"></i></div>
                 <h3 class="yd-about__inst-title">VISI</h3>
                 <p class="yd-about__inst-desc">
-<<<<<<< HEAD
                      Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
                      ke jenjang pendidikan tinggi.
-=======
-                    Terbangunnya tata Pemerintahan Desa yang jujur dan tegas guna mewujudkan kehidupan masyarakat Desa Cintaasih yang Adil, Makmur, Aman dan Sejahtera.
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
                 </p>
             </div>
 

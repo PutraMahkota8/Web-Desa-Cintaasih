@@ -38,13 +38,8 @@ Halaman utama — menyusun semua section
                 $leaders = [
                     [
                         'name' => 'DEDI KUSMARA',
-<<<<<<< HEAD
                         'role' => 'Kepala Desa Cintaasih    ',
                         'image' => asset('landing_page/images/dedi.jpeg'),
-=======
-                        'role' => 'Kepala PKBM NURUL FATA',
-                        'image' => asset('landing_page/images/deni.jpeg'),
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
                         'desc' => "Assalamu'alaikum Warahmatullahi Wabarakatuh. Kami bersyukur atas kepercayaan yang diberikan kepada PKBM NURUL FATA. Setiap peserta didik adalah amanah yang harus kita kembangkan potensinya secara maksimal. Mari bersama-sama membangun generasi yang unggul dalam prestasi dan berkarakter kuat dalam budaya Islami."
                     ],
                 ];
@@ -118,14 +113,7 @@ Halaman utama — menyusun semua section
 {{-- ============================================================
      PROGRAM PRESTASI
      ============================================================ --}}
-<<<<<<< HEAD
      
-=======
-@include('landing_page.sections.program')
-
-
-
->>>>>>> d89bdc0bb7f2ef5edc894e7c42acc2520f29f8d5
 {{-- ============================================================
      FASILITAS / POTENSI
      ============================================================ --}}
