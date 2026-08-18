@@ -17,7 +17,7 @@
     {{-- Main CSS --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ asset('landing_page/css/app.css') }}">
-    <link rel="shortcut icon" href="{{ asset('landing_page/images/logo.jpeg') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('landing_page/images/kabupaten-cianjur-logo-png_seeklogo-353574.png') }}" type="image/x-icon">
 
     {{-- Page-specific styles --}}
     @stack('styles')
