@@ -39,6 +39,7 @@
             <div class="absolute inset-0 bg-gradient-to-tr from-primary/60 to-transparent"></div>
         </div>
     </section>
+    
 
 
     {{-- ============================================================
