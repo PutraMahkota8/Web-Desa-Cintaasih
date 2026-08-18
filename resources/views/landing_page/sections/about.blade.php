@@ -66,16 +66,17 @@
         {{-- Two Institutions Cards --}}
         <div class="yd-about__institutions">
 
-            {{-- Card: MA --}}
+            {{-- Card: VISI --}}
             <div class="yd-about__inst-card">
                 <div class="yd-about__inst-icon"><i class="fas fa-eye"></i></div>
                 <h3 class="yd-about__inst-title">VISI</h3>
                 <p class="yd-about__inst-desc">
-                    Terbangunnya tata Pemerintahan Desa yang jujur dan tegas guna mewujudkan kehidupan masyarakat Desa Cintaasih yang Adil, Makmur, Aman dan Sejahtera.
+                     Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
+                     ke jenjang pendidikan tinggi.
                 </p>
             </div>
 
-            {{-- Card: PKBM --}}
+            {{-- Card: MISI --}}
             <div class="yd-about__inst-card">
                 <div class="yd-about__inst-icon"><i class="fas fa-bullseye"></i></div>
                 <h3 class="yd-about__inst-title">MISI</h3>
