@@ -50,7 +50,7 @@
             {{-- Image Side --}}
             <div class="yd-about__image-wrap">
                 <div class="yd-about__image-frame">
-                    <img src="{{ asset('landing_page/images/belajar.jpeg') }}"
+                    <img src="{{ asset('landing_page/images/image050.jpg') }}"
                          alt="Kegiatan belajar mengajar di Yayasan Darusalam"
                          class="yd-about__image"
                          loading="lazy" />
@@ -66,30 +66,55 @@
         {{-- Two Institutions Cards --}}
         <div class="yd-about__institutions">
 
-            {{-- Card: VISI --}}
-            <div class="yd-about__inst-card">
-                <div class="yd-about__inst-icon"><i class="fas fa-eye"></i></div>
-                <h3 class="yd-about__inst-title">VISI</h3>
-                <p class="yd-about__inst-desc">
-                     Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
-                     ke jenjang pendidikan tinggi.
-                </p>
-            </div>
+{{-- Card: VISI --}}
+<div class="yd-about__inst-card">
+    <div class="yd-about__inst-icon">
+        <i class="fas fa-eye"></i>
+    </div>
 
-            {{-- Card: MISI --}}
-            <div class="yd-about__inst-card">
-                <div class="yd-about__inst-icon"><i class="fas fa-bullseye"></i></div>
-                <h3 class="yd-about__inst-title">MISI</h3>
-                <p class="yd-about__inst-desc">
-                    1. Meningkatkan Pelayanan kepada masyarakat yang lebih baik
-                    <br>
-                    2. Meningkatkan Sarana dan Prasarana segi keagamaan, ekonomi, pendidikan, kesehatan, olahraga, budaya dan pertanian
-                    <br>
-                    3. Mengutamakan masyarakat dan gotong-royong di dalam kegiatan dengan seluruh  lapisan masyarakat.
-                </p>
-            </div>
+    <h3 class="yd-about__inst-title">VISI</h3>
 
-        </div>
+    <p class="yd-about__inst-desc">
+        Terwujudnya Desa Cintaasih yang maju, mandiri, sejahtera,
+        berdaya saing, serta menjunjung tinggi nilai-nilai
+        kebersamaan dan gotong royong.
+    </p>
+</div>
+
+
+{{-- Card: MISI --}}
+<div class="yd-about__inst-card">
+    <div class="yd-about__inst-icon">
+        <i class="fas fa-bullseye"></i>
+    </div>
+
+    <h3 class="yd-about__inst-title">MISI</h3>
+
+    <p class="yd-about__inst-desc">
+        1. Meningkatkan kualitas pelayanan pemerintahan desa
+        yang transparan, efektif, dan responsif kepada masyarakat.
+        <br><br>
+
+        2. Meningkatkan pembangunan dan pemeliharaan sarana
+        serta prasarana desa untuk mendukung kesejahteraan masyarakat.
+        <br><br>
+
+        3. Mendorong peningkatan perekonomian masyarakat melalui
+        pengembangan potensi dan sumber daya desa.
+        <br><br>
+
+        4. Meningkatkan kualitas pendidikan, kesehatan, sosial,
+        keagamaan, kepemudaan, dan kebudayaan masyarakat.
+        <br><br>
+
+        5. Meningkatkan pemberdayaan masyarakat serta mengembangkan
+        semangat gotong royong dalam pembangunan desa.
+        <br><br>
+
+        6. Mewujudkan lingkungan desa yang aman, nyaman, bersih,
+        sehat, dan berkelanjutan.
+    </p>
+</div>
 
     </div>
 </section>
