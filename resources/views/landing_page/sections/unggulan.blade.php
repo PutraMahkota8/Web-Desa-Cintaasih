@@ -8,11 +8,7 @@
         <div class="yd-section-header yd-section-header--center">
             <p class="yd-section-label">Program</p>
             <h2 class="yd-section-title">Program Unggulan</h2>
-<<<<<<< HEAD
             <p class="yd-section-subtitle">Program unggulan Desa yang Difokuskan untuk Pemberian Dampak Kepada Masyarakat Desa Cintaasih</p>
-=======
-            <p class="yd-section-subtitle">Program unggulan yang mengedepankan kepentingan dan pemberdayaan masyarakat.</p>
->>>>>>> Gawean-Damar
         </div>
 
         <div class="yd-facilities__grid">
