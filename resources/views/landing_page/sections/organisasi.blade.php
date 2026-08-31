@@ -26,6 +26,7 @@
     {{-- GRID ORGANISASI --}}
     <div class="yd-organization__grid">
 
+<<<<<<< HEAD
         {{-- BPD --}}
         <div class="yd-organization-card" data-aos="fade-up">
 
@@ -57,6 +58,8 @@
 
         </div>
 
+=======
+>>>>>>> gaweanzidan
         {{-- SEKRETARIS DESA --}}
         <div class="yd-organization-card" data-aos="fade-up">
 

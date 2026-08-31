@@ -39,7 +39,7 @@
         </nav>
 
         {{-- CTA Button --}}
-        <a href="{{ url('/')}}#pendaftaran" class="yd-btn yd-btn--primary yd-navbar__cta">
+        <a href="https://wa.me/6285802732708" class="yd-btn yd-btn--primary yd-navbar__cta">
             Hubungi Kami
         </a>
 

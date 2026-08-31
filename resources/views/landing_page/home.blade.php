@@ -120,10 +120,9 @@ Halaman utama — menyusun semua section
      ============================================================ --}}
      
 {{-- ============================================================
-     FASILITAS / POTENSI
+     PROGRAM
      ============================================================ --}}
-@include('landing_page.sections.Potensi')
-
+@include('landing_page.sections.program')
 
 {{-- ============================================================
      PROGRAM UNGGULAN
