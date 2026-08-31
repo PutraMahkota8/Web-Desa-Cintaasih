@@ -30,7 +30,7 @@
             {{-- Accordion 1: Latar Belakang & Keluarga --}}
             <div class="yd-accordion" id="acc-latar">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-latar-body">
-                    <span class="yd-accordion__icon"><i class="fas fa-user-circle"></i></span>
+                    <span class="yd-accordion__icon"><i class="fas fa-history"></i></span>
                     <span class="yd-accordion__title">Latar Belakang Desa</span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
@@ -48,67 +48,23 @@
             {{-- Accordion 2: Perjalanan Pendidikan & Organisasi --}}
             <div class="yd-accordion" id="acc-pendidikan">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-pendidikan-body">
-                    <span class="yd-accordion__icon"><i class="fas fa-graduation-cap"></i></span>
-                    <span class="yd-accordion__title">Perjalanan Pendidikan &amp; Organisasi</span>
+                    <span class="yd-accordion__icon"><i class="fas fa-history"></i></span>
+                    <span class="yd-accordion__title">Perkembangan Legenda Desa</span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-pendidikan-body" aria-hidden="true">
                     <div class="yd-accordion__content">
                         <p>
-                            Semangat intelektualnya membawanya menempuh pendidikan tinggi di Institut Agama Islam Negeri
-                            (IAIN) Jakarta—kini Universitas Islam Negeri Jakarta—dengan mengambil <strong>Fakultas Sastra
-                            Arab</strong>. Selama masa kuliah, jiwa organisasinya tumbuh kuat melalui Pergerakan Mahasiswa
-                            Islam Indonesia. Ia dipercaya menjadi <strong>Ketua Komisariat PMII Fakultas Sastra Arab</strong>.
+                            Sejarah Desa Cintaasih ditinjau secara kronologis terbentuk sejak tahun 1836 yang dipimpin oleh seorang Kepala Dusun (Alm. Singo Wadono) dan mengalami perubahan sesuai dengan perkembangan zaman.
                         </p>
                         <p>
-                            Namun perjalanan akademiknya harus berubah ketika sang ayah jatuh sakit. Tanggung jawab keluarga
-                            membuatnya bolak-balik Jakarta-Cianjur, hingga akhirnya memilih melanjutkan pendidikan di
-                            <strong>STIT Al-Azhary Cianjur</strong>, demi tetap dekat dengan keluarga sekaligus melanjutkan
-                            pengabdiannya.
+                            Konon kabarnya nama “Gekbrong” berawal dari bahasa Sunda leluhur yang terdiri dari dua kata yaitu “gek” yang artinya dadakan/sekonyong-konyong dan “brong” yang artinya berkerumun/bergerombol. 
+                            Maka sejak zaman dahulu kala di daerah ini apabila terjadi sesuatu masalah selalu dibicarakan bersama-sama secara bergerombol/berkumpul. 
+                            Hal ini menandakan adanya kebiasaan bermusyawarah sudah tertanam sejak dahulu kala.
                         </p>
                         <p>
-                            Pilihan itu justru menguatkan langkah perjuangannya di Nahdlatul Ulama. KH Dandan aktif di
-                            berbagai badan otonom dan struktur organisasi, mulai dari IPNU, GP Ansor, hingga dipercaya menjadi:
+                            Saat itu Desa Cintaasih sendiri masih masuk dalam Desa Cikancana dan seiring dengan perkembangan zaman serta kemajuan wilayah Desa Cintaasih yang semakin cepat menunjukkan peningkatan, sehingga pada tahun 1983 terjadi pemekaran secara administratif dan telah berubah status menjadi Desa Cintaasih dan untuk Desa Cintaasih sendiri sampai saat ini terdapat 3 dusun.
                         </p>
-                        <ul class="yd-accordion__list">
-                            <li><i class="fas fa-check-circle"></i> Ketua Tanfidziyah MWC NU Kecamatan Karangtengah</li>
-                            <li><i class="fas fa-check-circle"></i> Rois Syuriyah MWC NU</li>
-                            <li><i class="fas fa-check-circle"></i> Wakil Rois Syuriyah PCNU Cianjur (2006–2011) bersama KH Abdul Qodir Rozy</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            {{-- Accordion 3: Pengabdian di Dunia Pendidikan --}}
-            <div class="yd-accordion" id="acc-pengabdian">
-                <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-pengabdian-body">
-                    <span class="yd-accordion__icon"><i class="fas fa-chalkboard-teacher"></i></span>
-                    <span class="yd-accordion__title">Pengabdian di Dunia Pendidikan</span>
-                    <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
-                </button>
-                <div class="yd-accordion__body" id="acc-pengabdian-body" aria-hidden="true">
-                    <div class="yd-accordion__content">
-                        <p>
-                            Di dunia pendidikan formal, pengabdiannya berlangsung panjang. Ia menjadi guru agama di
-                            sejumlah sekolah negeri, mulai dari SDN Cijedil, SDN Cimurid, SDN Panembong, SDN Bojongherang,
-                            SMP PGRI, PGAN, hingga menutup masa pengabdiannya di SMEA Negeri yang kini dikenal sebagai
-                            <strong>SMKN 1 Cianjur</strong>.
-                        </p>
-                        <p>
-                            Namun kiprah terbesarnya justru tumbuh dari rumahnya sendiri. Di kediamannya, KH Dandan Nasyir
-                            mendirikan <strong>Majlis Taklim dan Pondok Pesantren Darussalam</strong>, yang kemudian
-                            berkembang menjadi pusat pendidikan agama masyarakat.
-                        </p>
-                        <p>
-                            Pengajian rutin yang ia bina melibatkan berbagai lapisan masyarakat: ibu-ibu, bapak-bapak,
-                            santri, hingga warga umum dari berbagai wilayah seperti Panembong, Bojongmeron, Ancol, Kaum
-                            Maleber, dan daerah lainnya. Bagi masyarakat, beliau bukan hanya guru, melainkan
-                            <em>pengayom spiritual</em>.
-                        </p>
-                        <blockquote class="yd-accordion__quote">
-                            Dedikasi KH Dandan Nasyir mencerminkan sosok kiai kampung yang tidak mencari panggung besar,
-                            tetapi menanamkan pengaruh mendalam melalui pendidikan, pengajian, dan keteladanan hidup.
-                        </blockquote>
                     </div>
                 </div>
             </div>
