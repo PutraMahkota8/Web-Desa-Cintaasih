@@ -21,6 +21,7 @@ Halaman utama — menyusun semua section
 {{-- ============================================================
      KEPEMIMPINAN
      ============================================================ --}}
+
 <section class="yd-section yd-leadership">
 
     <div class="yd-container">
@@ -31,28 +32,33 @@ Halaman utama — menyusun semua section
             <h2 class="yd-section-title">Hall of Excellence</h2>
         </div>
 
+        {{-- Pimpinan --}}
+        <div class="yd-leadership__grid" style="display: flex; justify-content: center;">
 
-        {{-- Grid Pimpinan --}}
-        <div class="yd-leadership__grid">
             @php
                 $leaders = [
                     [
-                        'name' => 'Bapak Dedi Kusmara',
+                        'name' => 'DEDI KUSMARA',
                         'role' => 'Kepala Desa Cintaasih',
-                        'image' => asset('landing_page/images/WhatsApp Image 2026-08-10 at 10.46.12 AM.jpeg'),
-                        'desc' => "Puji dan syukur marilah kita panjatkan ke hadirat Allah SWT, Tuhan Yang Maha Esa, karena atas rahmat dan karunia-Nya kita semua diberikan kesehatan dan kesempatan untuk terus berkarya demi kemajuan desa yang kita cintai. Sholawat serta salam semoga senantiasa tercurah kepada junjungan kita Nabi Besar Muhammad SAW, keluarga, sahabat, hingga kepada kita umatnya hingga akhir zaman. Sebagai Kepala Desa Cintaasih, Kecamatan Gekbrong, Kabupaten Cianjur, saya menyambut baik hadirnya platform digital ini sebagai sarana keterbukaan informasi dan pelayanan publik. Desa Cintaasih yang berada di bawah kaki Gunung Gede Pangrango memiliki potensi alam, pertanian, serta keberagaman budaya yang sangat luar biasa. Melalui media ini, kami berkomitmen untuk menghadirkan tata kelola pemerintahan desa yang transparan, akuntabel, dan dapat diakses dengan mudah oleh seluruh warga masyarakat maupun pihak luar. Akhir kata, kami mengucapkan terima kasih kepada seluruh pihak yang telah berkontribusi dalam mendukung program-program pembangunan di Desa Cintaasih. Mari kita bersama-sama menjaga keharmonisan, mengoptimalkan potensi lokal yang kita miliki, dan membawa Desa Cintaasih menuju masa depan yang lebih maju, makmur, dan berdaya saing di wilayah Kabupaten Cianjur."
+                        'image' => asset('landing_page/images/dedi.jpeg'),
+                        'desc' => "Assalamu'alaikum Warahmatullahi Wabarakatuh. Kami bersyukur atas kepercayaan yang diberikan kepada PKBM NURUL FATA. Setiap peserta didik adalah amanah yang harus kita kembangkan potensinya secara maksimal. Mari bersama-sama membangun generasi yang unggul dalam prestasi dan berkarakter kuat dalam budaya Islami."
                     ],
                 ];
             @endphp
 
-
-            {{-- Perulangan data pimpinan --}}
             @foreach($leaders as $leader)
 
-                <div class="yd-leader-card" data-aos="fade-up">
+                <div
+                    class="yd-leader-card"
+                    data-aos="fade-up"
+                    style="text-align: center; width: 100%; max-width: 420px;"
+                >
 
                     {{-- Foto Pimpinan --}}
-                    <div class="yd-leader-card__image-wrap">
+                    <div
+                        class="yd-leader-card__image-wrap"
+                        style="display: flex; justify-content: center;"
+                    >
 
                         <img
                             src="{{ $leader['image'] }}"
@@ -62,7 +68,6 @@ Halaman utama — menyusun semua section
                         >
 
                     </div>
-
 
                     {{-- Informasi Pimpinan --}}
                     <div class="yd-leader-card__body">
@@ -113,10 +118,7 @@ Halaman utama — menyusun semua section
 {{-- ============================================================
      PROGRAM PRESTASI
      ============================================================ --}}
-@include('landing_page.sections.program')
-
-
-
+     
 {{-- ============================================================
      FASILITAS / POTENSI
      ============================================================ --}}

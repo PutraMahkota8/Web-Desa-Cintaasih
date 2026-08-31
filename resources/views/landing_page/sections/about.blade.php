@@ -23,25 +23,6 @@
                     Desa Cintaasih berkomitmen penuh menghadirkan pelayanan publik berkualitas tinggi yang merangkul potensi lokal di sektor pertanian, UMKM, serta terus melestarikan warisan nilai gotong royong dan semangat nasionalisme 
                     demi tumbuh bersama menuju masa depan yang lebih sejahtera.
                 </p>
-
-                {{-- Stats --}}
-                <div class="yd-about__stats">
-                    <div class="yd-about__stat">
-                        <span class="yd-about__stat-num">3</span>
-                        <span class="yd-about__stat-label">Dusun</span>
-                    </div>
-                    <div class="yd-about__stat-divider"></div>
-                    <div class="yd-about__stat">
-                        <span class="yd-about__stat-num">06</span>
-                        <span class="yd-about__stat-label">RW</span>
-                    </div>
-                    <div class="yd-about__stat-divider"></div>
-                    <div class="yd-about__stat">
-                        <span class="yd-about__stat-num">29</span>
-                        <span class="yd-about__stat-label">RT</span>
-                    </div>
-                </div>
-
                 <a href="#sejarah" class="yd-btn yd-btn--primary yd-about__cta">
                     Selengkapnya <i class="fas fa-arrow-right"></i>
                 </a>
@@ -71,7 +52,9 @@
                 <div class="yd-about__inst-icon"><i class="fas fa-eye"></i></div>
                 <h3 class="yd-about__inst-title">VISI</h3>
                 <p class="yd-about__inst-desc">
-                    Terbangunnya tata Pemerintahan Desa yang jujur dan tegas guna mewujudkan kehidupan masyarakat Desa Cintaasih yang Adil, Makmur, Aman dan Sejahtera.
+                    Madrasah Aliyah Swasta untuk tingkat SMA/MA dengan fokus pada keunggulan
+                    akademik dan pembentukan karakter Islami bagi siswa yang ingin melanjutkan
+                    ke jenjang pendidikan tinggi.
                 </p>
             </div>
 

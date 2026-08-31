@@ -76,18 +76,6 @@
              PANEL:Perkembangan Desa
         ═══════════════════════════════════════ --}}
         <div class="yd-history__panel" id="tab-perkembangan">
-
-            {{-- Intro Banner --}}
-            <div class="yd-perkembangan__intro px-4 py-3">
-                <div class="yd-perkembangan__intro-icon"><i class="fas fa-lightbulb"></i></div>
-                <div>
-                    <h3 class="yd-perkembangan__intro-title">Visi Desa Cintaasih</h3>
-                    <p class="yd-perkembangan__intro-text">
-                        Terbangunnya tata Pemerintahan Desa yang jujur dan tegas guna mewujudkan kehidupan masyarakat Desa Cintaasih yang Adil, Makmur, Aman dan Sejahtera.
-                    </p>
-                </div>
-            </div>
-
             {{-- Accordion: PKBM NURUL FATA --}}
             <div class="yd-accordion yd-accordion--secondary" id="acc-pkbm">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-pkbm-body">
@@ -137,7 +125,7 @@
             <div class="yd-accordion yd-accordion--secondary" id="acc-warisan">
                 <button class="yd-accordion__trigger" aria-expanded="false" aria-controls="acc-warisan-body">
                     <span class="yd-accordion__icon"><i class="fas fa-seedling"></i></span>
-                    <span class="yd-accordion__title">Sosial & Mitigasi Bencana</span>
+                    <span class="yd-accordion__title">SOSIAL & MITIGASI BENCANA</span>
                     <span class="yd-accordion__chevron"><i class="fas fa-chevron-down"></i></span>
                 </button>
                 <div class="yd-accordion__body" id="acc-warisan-body" aria-hidden="true">

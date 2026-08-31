@@ -26,7 +26,11 @@
                 <li class="yd-navbar__item">
                     <a href="{{ url('/')}}#sejarah" class="yd-navbar__link">Sejarah</a>
                 </li>
+<<<<<<< HEAD
                 <li class="yd-navbar__item yd-navbar__item--dropdown">
+=======
+                 <li class="yd-navbar__item">
+>>>>>>> 70e0216a5c16a51358184877b08dcf4753991030
                     <a href="{{ url('/')}}#unggulan" class="yd-navbar__link">Program Unggulan</a>
                 </li>
                 <li class="yd-navbar__item">
