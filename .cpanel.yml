@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/desy6517/repositories/Web-Desa-Cintaasih 
+    - /bin/cp -R * $DEPLOYPATH
